@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maverick & Professor Bucktooth Fan Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Maverick & Professor Bucktooth Fan Page</h1>
+    </header>
+
+    <main id="fan-page-content">
+        <section class="character-section">
+            <h2>Meet Maverick & Professor Bucktooth</h2>
+            <p>Join Maverick, a regular guy, and his rather... *unique* companion, Professor Bucktooth, on their wild adventures. Professor Bucktooth, a plush beaver doll with a surprisingly profound (and chaotic) understanding of 'structural integrity' and 'romantic justice', often finds himself and Maverick in the most peculiar situations. From fairgrounds gone wild to impromptu Shakespearean performances and sticky syrup-fueled escapades, their story is one of unexpected friendship and delightful mayhem.</p>
+            <img src="images/bucktooth.png" alt="Professor Bucktooth the Beaver - our fluffy friend with big teeth!" class="character-image">
+            <p class="professor-quote">"It's Romantic Justice, Maverick! The most durable structure of all!" - Professor Bucktooth</p>
+            <p class="maverick-quote">"Professor, you just handcuffed a robber to a waitress. That's not how justice works." - Maverick</p>
+        </section>
+
+        <section class="character-section">
+            <h2>Professor Bucktooth: The Beaver of Beaver Logic</h2>
+            <p>Professor Bucktooth isn't just any plush doll. He's a self-proclaimed expert in 'structural integrity', 'romantic justice', and general mayhem. With his squeaky voice and polyester vessel, he approaches every situation with an unwavering, albeit bizarre, logic. He believes in ensuring that all romantic gestures have proper scaffolding and that justice, when served, should be as durable as a beaver lodge.</p>
+        </section>
+
+        <section class="character-section">
+            <h2>Maverick: The Patient Partner</h2>
+            <p>Maverick is the steadfast human companion to Professor Bucktooth. While often bewildered and sometimes exasperated by the Professor's antics, Maverick consistently finds himself pulled into the whirlwind of adventures. His calm demeanor and occasional witty remarks ground the Professor's wild schemes, making them an unlikely but inseparable duo.</p>
+        </section>
+
+        <section class="adventure-section">
+            <h2>Their Wild Adventures</h2>
+            <p>Click on a story cover or title to read the full adventure!</p>
+            <ul class="adventure-list" id="stories-list">
+                <li class="story-item" data-story="fairground">
+                    <img src="images/Fairground Firestorm.png" alt="Fairground Firestorm Cover" class="story-cover">
+                    <div class="story-info">
+                        <button class="story-button">Mav and the Fairground Firestorm</button>
+                        <p>During a chaotic trip to the fair, Professor Bucktooth attempts to orchestrate romance with his signature 'Beaver Logic', leading to a high-stakes escape from angry fairgoers.</p>
+                    </div>
+                </li>
+                <li class="story-item" data-story="shakespeare">
+                    <img src="images/Shakespearian Shambles.png" alt="Shakespearian Shambles Cover" class="story-cover">
+                    <div class="story-info">
+                        <button class="story-button">Mav and the Shakespearian Shambles</button>
+                        <p>When Professor Bucktooth interrupts a puppet show, he decides to woo Juliet himself, causing theatrical destruction and a chase through the park, all while declaring his dramatic range.</p>
+                    </div>
+                </li>
+                <li class="story-item" data-story="sticky">
+                    <img src="images/Sticky Heart of Justice.png" alt="Sticky Heart of Justice Cover" class="story-cover">
+                    <div class="story-info">
+                        <button class="story-button">Mav and the Sticky Heart of Justice</button>
+                        <p>On Valentine's Day, Professor Bucktooth takes 'structural precision' to a new level at a waffle lodge, resulting in syrup-based chaos, a flirting robber, and an unexpected arrest by 'Beaver Justice'.</p>
+                    </div>
+                </li>
+                <li class="story-item" data-story="churro">
+                    <img src="images/The Great Churro Bandit.png" alt="The Great Churro Gambit Cover" class="story-cover">
+                    <div class="story-info">
+                        <button class="story-button">Mav and the Great Churro Gambit</button>
+                        <p>Mav faces a churro dilemma and engages in a ghostly chess match with Professor Bucktooth, leading to a high-speed chase involving a churro cart.</p>
+                    </div>
+                </li>
+                <li class="story-item" data-story="beaver">
+                    <img src="images/Upside-Down Beaver.png" alt="Upside-Down Beaver Cover" class="story-cover">
+                    <div class="story-info">
+                        <button class="story-button">Mav and the Upside-Down Beaver</button>
+                        <p>Maverick finds himself in an alternate dimension with Professor Bucktooth, battling bizarre monsters with the help of walruses and enduring the Professor's unique combat commentary.</p>
+                    </div>
+                </li>
+                <li class="story-item" data-story="icecream">
+                    <img src="images/Ice Cream Justice.png" alt="Ice Cream Justice Cover" class="story-cover">
+                    <div class="story-info">
+                        <button class="story-button">Mav and the Ice Cream Justice</button>
+                        <p>Professor Bucktooth, as 'The Timber Titan', attempts to enforce 'Beaver Justice' on innocent citizens, only to accidentally bring down a real criminal with a strategically dropped ice cream.</p>
+                    </div>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>🌲 Thanks for visiting our cozy cabin! Come back anytime for more adventures! 🌲</p>
+        <p>🦫 Made with love by Beaver Enthusiasts 🦫</p>
+    </footer>
+
+    <!-- Story Display Modal -->
+    <div id="story-display" class="hidden">
+        <div class="story-modal-content">
+            <button class="close-button" id="close-story">&times;</button>
+            <img id="story-cover" class="modal-story-cover" src="" alt="Story Cover">
+            <h2 id="story-title"></h2>
+            <div id="story-content"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
