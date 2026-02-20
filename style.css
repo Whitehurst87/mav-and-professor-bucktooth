@@ -2,7 +2,7 @@
    A cozy log cabin adventure for kids! */
 
 body {
-    font-family: 'Comic Sans MS', 'Chalkboard', cursive; /* Fun, kid-friendly font */
+    font-family: 'Comic Neue', 'Comic Sans MS', 'Chalkboard', sans-serif; /* Fun, kid-friendly font, now with Comic Neue as primary */
     margin: 0;
     padding: 0;
     /* Cozy cabin wood background */
