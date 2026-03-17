@@ -464,7 +464,263 @@ sabotage of his forward momentum!"
 The Professor let out a manic, triumphant laugh, vanishing into a puff of blue smoke. Mav just
 stood there, finished his own ice cream, and decided that if "Beaver Justice" meant accidental
 victories through dessert-based clumsiness, he could live with that.`
-    }
+    },
+    arbys_method: {
+        title: "Mav and the Arbys Method",
+        image: "images/Arbys Method.png",
+        content: `Maverick, a connoisseur of questionable late-night culinary decisions, found himself staring at the neon glow of an Arby’s sign. Beside him, Professor Bucktooth, in his ghostly translucent form, hummed with an almost unsettling zeal. "Observe, Maverick! The foundational structure of the Fast-Food Industrial Complex! A marvel of efficiency, if not... structural integrity in its menu offerings!"
+
+Mav sighed. "Professor, it's 2 AM. I just want a Beef 'n Cheddar."
+
+"Nonsense! Every choice, even one involving processed meats and orange cheese, is a battle for the soul!" Bucktooth declared, his spectral tail wagging. "I sense a disturbance in the fry-force! A rogue Curly Fry, perhaps?"
+
+Inside, the single, tired employee, Chad, looked like he'd seen it all. He was currently fending off a customer demanding "extra sauce, but only the sauce they don't usually give you."
+
+"AHA! A societal fissure!" Bucktooth buzzed, phasing through the counter. "This 'Chad' exhibits the tensile strength of a damp tissue, yet he resists! Marvelous! Maverick, engage!"
+
+"Engage what? My wallet?" Mav muttered, fumbling for change.
+
+The Professor, meanwhile, had begun to "audit" the condiment station. "Ketchup! A classic! But lacking the robust structural support of a proper relish! And what is this?!" He pointed a spectral paw at a bottle of horsey sauce. "A condiment of pure, unadulterated chaos! Its viscosity defies all known engineering principles!"
+
+Chad, noticing the ghostly glow near the horsey sauce, blinked. "Sir, are you... seeing things again? The sauce is fine."
+
+"The sauce is a lie, Chad! A delicious, horseradish-infused lie!" Bucktooth shrieked. He then proceeded to "possess" a packet of Arby's Sauce, making it levitate and squirt itself onto an unsuspecting customer's shirt.
+
+"HEY! MY NEW SHIRT!" the customer yelled.
+
+"It is a warning! A structural premonition of poor dietary choices!" Bucktooth boomed.
+
+Mav, mortified, tried to drag the Professor away, but the ghost-beaver was in his element. He darted around the restaurant, whispering "structural weaknesses" into the ears of unsuspecting diners, causing one woman to eye her sandwich with profound suspicion, then dismantle it layer by layer.
+
+Suddenly, a loud crash came from the back. The "extra sauce" customer, in his zealous quest, had managed to knock over a stack of Arby's hat boxes. Chad looked defeated.
+
+"This is it, Maverick! The moment of truth! A total collapse! But from chaos, order shall emerge!" Bucktooth cried, his blue glow intensifying. "I shall deploy... THE ARBY'S METHOD!"
+
+With a flash, the Professor zipped into the back room. Mav heard a series of rapid-fire thuds, clangs, and what sounded suspiciously like a spectral beaver chastising inanimate objects.
+
+When Bucktooth reappeared, he was carrying a perfectly balanced tray. On it were three Beef 'n Cheddars, a large curly fry, and a cup of water. He presented it to Chad.
+
+"Observe, young Chad! The true 'Arby's Method' is not about chaos, but about strategic resource allocation and the precise application of savory meats! This customer desires 'extra sauce'? Provide it! But also provide water, for hydration is the foundation of calm!"
+
+Chad, bewildered, took the tray. The "extra sauce" customer, now covered in sauce and staring at the unexpected water, just nodded. "Yeah... yeah, water. Good call. Thanks, Chad."
+
+Mav stared at the Professor. "You... fixed it?"
+
+"It was a simple matter of re-establishing foundational principles, Maverick," Bucktooth said, puffing out his spectral chest. "Every Beef 'n Cheddar is a load-bearing beam, every curly fry, a delicate but essential truss. And horsey sauce... well, horsey sauce is a wild card. But a delicious one."
+
+As Mav finally got his Beef 'n Cheddar, the Professor gave a final, satisfied hum. "Now, Maverick, for the next structural challenge: the structural integrity of your digestion after this."
+
+Mav just bit into his sandwich, deciding not to think about it. For once, the Professor had created order out of chaos, even if that order still involved highly questionable meat. The ghost-beaver, meanwhile, began humming a spectral tune, probably about the architectural wonders of a perfectly constructed roast beef sandwich.`
+    },
+    bitter_lemonade_stand_debacle: {
+        title: "Mav and the Bitter Lemonade Side Hustle",
+        image: "images/Bitter Lemonade Side Hustle.png",
+        content: `Maverick squinted at the hastily drawn sign: "Professor Bucktooth's Structurally Sound Lemonade - 5 Cents (Negotiable based on existential dread)." Beside the rickety stand, constructed from scavenged palette wood and Mav's old skateboard, stood the Professor, clad in a tiny, hand-knitted apron. "Maverick! The entrepreneurial spirit is a magnificent, albeit unstable, cantilever! We must fortify our beverage empire!"
+
+Mav sighed, wiping sweat from his brow. "Professor, it's 100 degrees out here, and our lemonade tastes like regret and dish soap."
+
+"Nonsense! It's a 'bold, artisanal flavor profile'! Designed to challenge the drinker's perception of sweet versus sour, much like a poorly constructed bridge challenges gravity!" Bucktooth squeaked, adjusting a wilting daisy in a mason jar.
+
+Their first customer, a bewildered tourist named Brenda, approached cautiously. "Is this... safe to drink?"
+
+"Safe?! Madam, its structural integrity is beyond reproach! Each lemon molecule has been audited for optimal tartness-to-sweetness ratio! Though, we did run out of sugar and had to use Mav's emergency stash of sugar-free gummy bears," the Professor declared proudly.
+
+Brenda took a hesitant sip, her face contorting. "Oh. My. God. That's... intensely bitter."
+
+"AHA! A palate cleansed of artificial expectations! You are experiencing true, foundational citrus!" Bucktooth beamed. "That will be ten cents, for the emotional journey!"
+
+Mav intervened. "Professor, it's five cents. And we probably owe her for her suffering."
+
+The day devolved into a series of unfortunate events. A child, lured by the promise of "existential dread," burst into tears after one sip. A group of teenagers tried to pay with a half-eaten bag of chips. And a well-meaning old man, mistaking the stand for a charity event, tried to donate a slightly used garden gnome.
+
+"Maverick! Our financial scaffolding is crumbling! We are facing a liquidity crisis of catastrophic proportions!" Bucktooth shrieked, as a sudden gust of wind nearly toppled the entire stand.
+
+"Maybe we should just pack it in, Professor. This 'side hustle' is more like a 'side disaster'," Mav suggested, catching a flying lemon.
+
+"NEVER! The Beaver does not abandon his post! We must innovate! We must... rebrand!"
+
+Bucktooth then produced a tiny, glitter-covered megaphone from his apron. "ATTENTION, CITIZENS! PRESENTING: PROFESSOR BUCKTOOTH'S PAIN-TO-PROFIT ELIXIR! A beverage so challenging, it builds character! Each sip fortifies your resolve against the cruel realities of the universe! Only 25 cents, and a waiver must be signed!"
+
+The new branding, surprisingly, attracted a small queue of extreme sports enthusiasts and philosophy students. One burly man, after chugging a cup and visibly shuddering, declared, "That was the most empowering beverage I've ever consumed! I feel like I can punch a mountain!"
+
+Mav watched, aghast, as the Professor started raking in quarters. "Professor, you're selling misery for profit!"
+
+"It's a niche market, Maverick! And the profit margins are excellent when your primary ingredient is existential despair!" Bucktooth cackled, rubbing his felt paws together.
+
+By sundown, they had actually made a profit. Mav, counting the surprisingly large pile of coins, looked at the Professor. "I don't understand how you do it."
+
+"It's about identifying a structural weakness in the human psyche, Maverick. The desire for self-improvement, even through suffering, is a powerful force! And a well-placed waiver protects your assets!" Bucktooth announced, collapsing onto the counter, exhausted. "Now, to celebrate our victory, I believe a structurally questionable pizza is in order!"
+
+As they packed up the wobbly stand, Mav couldn't help but smile. The lemonade was still terrible, but the Professor's unique brand of "Beaverpreneurship" had somehow, against all odds, succeeded. And for some reason, he now felt slightly more resilient to life's bitter moments. Maybe there was something to that "pain-to-profit" elixir after all.`
+    },
+    def_leppard_depuction: {
+        title: "Mav and the Def Leppard Depuction",
+        image: "images/Def Leppard Depuction.png",
+        content: `Maverick was trying to explain the subtle nuances of 80s hair metal to Professor Bucktooth, who, in his spectral form, was currently attempting to organize Mav's sock drawer by thread count. "It's not just noise, Professor! It's an art form! Like, Def Leppard? 'Pour Some Sugar on Me'? It's a foundational text!"
+
+"Foundational, Maverick? I perceive a distinct lack of structural integrity in a song that advocates for 'sugar' on one's person! A sticky situation, ripe for infestation and general unsightliness!" Bucktooth declared, holding up a mismatched sock with an ethereal paw. "And this 'Depuction' you speak of? Is it a form of architectural deconstruction?"
+
+"No, Professor, 'depuction' isn't even a real word! I'm trying to explain the *sound*!" Mav groaned, throwing his hands up.
+
+Suddenly, a shimmering, distorted guitar riff ripped through the air, emanating from Mav's vintage boombox. The room began to vibrate. The socks in Bucktooth's paw flew into the air, swirling around like a miniature tornado.
+
+"AHA! A sonic structural anomaly! The very fabric of reality is being challenged by this... 'Def Leppard'!" Bucktooth shrieked, his blue glow flickering. "I sense a chaotic energy! A need for... Beaver Intervention!"
+
+With a flash, the Professor zoomed into the boombox. Mav watched in stunned silence as the stereo began to glow, then distort. The music intensified, the bass drum hitting with the force of a wrecking ball.
+
+Then, from the speakers, a tiny, high-pitched voice emerged, overlaid with a distorted guitar solo. "I AM THE PROFESSOR! AND I HAVE INFILTRATED THE VERY HEART OF THIS 'DEF LEPPARD'!"
+
+Mav slapped his forehead. "He's inside the song!"
+
+Inside the boombox, the Professor found himself in a swirling vortex of electric guitars, drum beats, and power vocals. He saw tiny, spectral versions of Joe Elliott and Phil Collen, headbanging on a stage made of sound waves.
+
+"Greetings, musical anarchists!" Bucktooth projected, his voice now echoing with reverb. "I perceive a delightful cacophony, but also a distinct lack of proper soundproofing! Your foundational acoustics are... porous!"
+
+He then proceeded to "rearrange" the sound waves, attempting to build spectral sound barriers and reinforce harmonic structures. The guitar solos became geometrically precise, the drum beats were metronomically perfect, and Joe Elliott's vocals gained a surprising, almost academic clarity.
+
+The music, while still undeniably Def Leppard, now sounded... sterile. Like a perfectly engineered rock song, stripped of its raw energy.
+
+"What have you done?!" Mav yelled, as the sound coming from his boombox suddenly became less 'rock anthem' and more 'mathematical equation'.
+
+"I have optimized the sonic architecture, Maverick! Each note now has a purpose! Each riff, a structurally sound trajectory!" Bucktooth declared proudly, phasing back out of the boombox, a tiny, glowing guitar pick clutched in his paw. "It is the perfect 'Depuction' of their musical chaos!"
+
+Mav stared at the boombox, which was now emitting a surprisingly pleasant, but utterly lifeless, rendition of "Pour Some Sugar on Me."
+
+"Professor," Mav said slowly. "You just... took the soul out of Def Leppard."
+
+"Nonsense! I merely reinforced its framework! It is now a monument to efficient sound production!" Bucktooth countered, polishing his glowing guitar pick. "And now, Maverick, I believe we should apply these principles to your wardrobe. I perceive several shirts with... questionable seam integrity!"
+
+Mav grabbed the boombox and ran, the sound of perfectly optimized 80s rock chasing him through the house. He knew then that some things, like rock and roll, were meant to be a glorious, structurally unsound mess. And that the Professor's "Depuction" was a fate worse than any power ballad.`
+    },
+    ghostly_ritual: {
+        title: "Mav and the Ghostly Ritual",
+        image: "images/Mav and Ghostly Ritual.png",
+        content: `Maverick stared at the ancient, leather-bound book Professor Bucktooth had unearthed from beneath a particularly moldy stack of National Geographics. "Professor, are you sure about this? It looks less like a 'foundational text' and more like a recipe for summoning existential dread... or a really bad curry."
+
+Bucktooth, in his spectral form, adjusted his tiny spectacles. "Nonsense, Maverick! This is 'The Greater Grimoire of Ghostly Girders'! It details rituals for 'structural manifestion' and 'ethereal reinforcement'! We shall perform the 'Ritual of the Resonant Rafter'!"
+
+"Resonant Rafter?" Mav mumbled, peering at a blurry illustration of a beaver-like creature surrounded by floating, glowing planks of wood. "Are you just making this up?"
+
+"Silence, apprentice! The key, it says here, is a 'focus of pure intent' and 'three drops of non-eukaryotic essence'!" Bucktooth declared.
+
+"Non-eukaryotic essence? What is that even... " Mav trailed off, as the Professor's spectral paw dipped into Mav's half-eaten bag of cheese puffs.
+
+"AHA! The very dust from these 'puffs' contains the primordial, non-cellular structures we require! Begin the chant, Maverick! 'O Spirit of the Load-Bearing Beam, Manifest thy Mighty Dream!'"
+
+Mav, thoroughly confused but used to the Professor's antics, reluctantly joined in the chant, sprinkling cheese puff dust around a hastily drawn circle on the floor. The room began to hum. The lights flickered. A faint, cheesy aroma filled the air.
+
+Suddenly, a shimmering, translucent beaver appeared in the center of the circle. It was identical to Professor Bucktooth, but larger, with glowing red eyes and a deep, guttural growl that shook the floorboards.
+
+"I AM THE ANCIENT ARCHITECT! SUMMONED BY THE SCENT OF CHEESE AND THE LACK OF STRUCTURAL ADHERENCE!" the spectral beaver boomed, its voice echoing through the house. "WHO DARES DISTURB MY ETERNAL SLUMBER?!"
+
+Professor Bucktooth, startled, hid behind Mav's leg. "That's not in the book, Maverick! It just said 'mild structural manifestation'!"
+
+The Ancient Architect glared at them. "I PERCEIVE A DISTURBANCE IN THE LOAD-BEARING FIELD! YOU SEEK TO REINFORCE THE ETHEREAL WITH... CHEESE DUST?!"
+
+Mav, terrified, tried to explain. "Look, sir, he just wanted to build a better bookshelf! He's really into structural integrity!"
+
+"BOOKSHELF?! I AM THE CREATOR OF COSMIC KEELSTONES! THE ARBITER OF ASTRAL ARCHITECTURE! AND YOU WISH TO BIND ME TO A MUNDANE PIECE OF FURNITURE?!" The Ancient Architect's eyes glowed brighter.
+
+Professor Bucktooth, regaining his composure, piped up. "Actually, your Excellency, we sought your wisdom to reinforce the very fabric of our friendship! Maverick's emotional stability is often compromised by the existential dread of unorganized media!"
+
+The Ancient Architect paused, his glowing red eyes softening slightly. "UNORGANIZED MEDIA? A TRUE CATASTROPHE! THE STRUCTURAL INTEGRITY OF THE HUMAN MIND DEPENDS ON PROPER FILING SYSTEMS!"
+
+With a majestic sweep of his spectral paw, the Ancient Architect began to rearrange everything in Mav's room. Books flew onto shelves, neatly organized by genre and author. Clothes folded themselves into perfect squares. Even the dust bunnies in the corner formed themselves into structurally sound, miniature pyramids.
+
+"AHA! The ultimate 'Ghostly Ritual'! A celestial spring cleaning!" Professor Bucktooth cheered.
+
+"This is amazing!" Mav exclaimed, staring at his impossibly tidy room.
+
+The Ancient Architect nodded, a faint, contented hum emanating from his spectral form. "MY WORK HERE IS DONE. REMEMBER, YOUNG MORTALS: A TIDY SPACE REFLECTS A TIDY MIND! AND ALWAYS REINFORCE YOUR FOUNDATIONS... WITH LABELED BINS!"
+
+With a final, cheesy-smelling gust of wind, the Ancient Architect vanished.
+
+Professor Bucktooth emerged from behind Mav's leg. "See, Maverick? The power of 'Ghostly Girders'! Now, to celebrate our structurally sound victory, I believe a viewing of 'Architectural Digest' is in order!"
+
+Mav looked at his perfectly organized room, then at the lingering scent of cheese. He still didn't quite understand it, but for once, he couldn't complain. His room had never looked better. And for some reason, he now felt an inexplicable urge to buy a label maker.`
+    },
+    ten_billion_dollar_meat_nap: {
+        title: "Mav and the Ten Billion Dollar Meat Nap",
+        image: "images/Ten Billion Dollar Meat Nap.png",
+        content: `Maverick blinked, then blinked again. He was fairly certain he'd fallen asleep on his couch watching a documentary about competitive napping, but now he was in a room made entirely of deli meats. Walls of pastrami, a floor of perfectly marbled prosciutto, and a ceiling of what looked suspiciously like a giant bologna slice. Beside him, Professor Bucktooth, in a tiny chef's hat, was meticulously stacking slices of roast beef.
+
+"Maverick! You're awake! Just in time for the final structural assessment of the 'Ten Billion Dollar Meat Nap'!" Bucktooth squeaked, gesturing grandly with a miniature carving fork.
+
+"Professor... where are we? And why does it smell like a very expensive sandwich exploded?" Mav asked, trying to sit up, only to find himself sinking into a plush armchair made of cooked ham.
+
+"We are, my dear Maverick, inside the collective dream-consciousness of a global consortium of sleepy billionaires! This is the ultimate power nap! Each slice of meat represents a carefully negotiated tranche of corporate snooze-equity!"
+
+"And you built this?"
+
+"Indeed! The structural integrity of a truly restorative nap environment is paramount! The ambient temperature is precisely 68.3 degrees Fahrenheit, the sound of gentle snoring is calibrated to 3.7 decibels, and the aroma of cured meats is proven to induce profound REM cycles!" Bucktooth declared, prancing across the prosciutto floor.
+
+Suddenly, a disturbance. A wall of salami began to ripple. From within it, a spectral figure emerged. It was a stern-looking man in a pinstripe suit, transparent but clearly annoyed.
+
+"Bucktooth! What is the meaning of this?! My shareholders are experiencing nightmares about artisanal cheese boards! My quarterly profits are plummeting due to subconscious charcuterie anxieties!" the spectral CEO boomed.
+
+"AHA! A rogue dream-investor! I anticipated this structural stress!" Bucktooth announced, unfazed. "Your nightmares, sir, are merely the consequence of insufficient emotional foundational work! You have built your empire on the shaky ground of unchecked ambition!"
+
+The Professor then, with surprising speed, began "re-engineering" the dream-scape. He phased through the pastrami wall, emerging with a tiny, glowing wrench. He began tightening invisible bolts on the bologna ceiling. The spectral CEO watched, bewildered, as his nightmares transformed. The artisanal cheese boards became sturdy oak tables, the charcuterie anxieties resolved into perfectly organized spreadsheets.
+
+"What... what is happening?" the CEO stammered.
+
+"I am stabilizing your dream-economy, sir! By reinforcing your subconscious structural integrity, you will awaken refreshed, focused, and ready to dominate the market with a clear, calm mind! And perhaps a craving for a well-balanced breakfast!" Bucktooth explained, now adjusting a tiny, spectral dream-cushion.
+
+Mav watched as the CEO's spectral form began to smile, then hum contentedly, before dissolving back into the salami wall.
+
+"You really are something else, Professor," Mav said, carefully extracting himself from the ham armchair. "You can fix anything, can't you?"
+
+"Anything with a quantifiable structural flaw, Maverick! And the human psyche, I have discovered, is rife with architectural deficiencies! Now, I believe my work here is done. This entire meat-room is now structurally sound for at least twelve hours of uninterrupted slumber! We should make our exit before the aroma induces a permanent craving for... well, you know."
+
+With a final, triumphant squeak, Bucktooth led Mav through a portal that opened in a wall of smoked turkey, depositing them back onto Mav's couch.
+
+Mav opened his eyes, the smell of deli meat faintly lingering. He looked at the Professor, who was now a normal plush beaver doll again, nestled beside him. "Did... did we just save the global economy through a meat nap?"
+
+Bucktooth just snored softly, a tiny, contented smile on his felt face. Mav shrugged, stood up, and immediately headed for the fridge. He suddenly had an inexplicable craving for a very, very large sandwich.`
+    },
+    virtual_bean_dip: {
+        title: "Mav and the Virtual Bean Gauntlet",
+        image: "images/Virtual Bean Gauntlet.png",
+        content: `Maverick stared at the VR headset, a suspicious glint in Professor Bucktooth's button eyes. "Professor, are you sure this 'Virtual Bean Gauntlet' is a good idea? Last time you got into VR, you tried to 'structurally reinforce' the entire internet."
+
+"Nonsense, Maverick! This is cutting-edge virtual architecture! A true test of foundational fortitude! And it promises an 'infinite supply of digital bean dip'!" Bucktooth declared, already wired into the system, his spectral form flickering excitedly.
+
+Mav sighed, putting on the headset. Immediately, he was plunged into a psychedelic landscape of undulating green hills made of guacamole, towering mountains of refried beans, and rivers of molten cheese. Giant, sentient tortilla chips floated menacingly in the sky.
+
+"WELCOME, MAVERICK, TO THE BEANVERSE!" Bucktooth's voice boomed in his ears. "YOUR MISSION: NAVIGATE THE VIRTUAL BEAN GAUNTLET, ACQUIRE THE GOLDEN BEAN, AND SECURE THE INFINITE BEAN DIP SUPPLY!"
+
+"And what's the catch?" Mav asked, already dodging a colossal, spinning nacho cheese wheel.
+
+"The catch, my dear apprentice, is the inherent structural instability of the Beanverse! It is a world built on pure, unadulterated dip-namics! The ground is always shifting! The cheese is always flowing! It's a foundational nightmare!"
+
+Indeed, Mav found himself constantly slipping and sliding, trying to maintain his balance on the ever-moving terrain. Professor Bucktooth, meanwhile, was having the time of his virtual life, zipping around, building temporary bridges out of digital celery sticks, and chastising the sentient tortilla chips for their "substandard crunch-to-surface-area ratio."
+
+"Your structural integrity is compromised, you flimsy fried disc!" Bucktooth yelled at a particularly aggressive chip that was trying to impale Mav. "Observe the perfect, immutable architecture of the bean! A spherical marvel!"
+
+Suddenly, a giant, fiery jalapeño burst from a volcano of pico de gallo, spewing digital salsa. Mav screamed, narrowly avoiding a splash.
+
+"AHA! A spicy structural challenge!" Bucktooth cried. "Maverick! We must re-route the flow of molten cheese to create a defensive barrier! Think like a beaver! Think like a dam!"
+
+Mav, surprisingly, found himself adapting. He used his virtual hands to grab chunks of floating cheese, molding them into temporary shields. He learned to surf the guacamole rivers and even managed to "tame" a herd of wild, stampeding virtual beef chunks.
+
+After what felt like hours, they reached the summit of the tallest refried bean mountain. There, shimmering in a pool of liquid gold, was the Golden Bean.
+
+"We did it, Professor!" Mav cheered, grabbing the bean.
+
+"Indeed, Maverick! Your foundational understanding of dip-namics has been significantly enhanced!" Bucktooth said, puffing out his virtual chest. "Now, to claim our reward!"
+
+As Mav reached for the infinite bean dip dispenser, a triumphant fanfare blared, and a voice announced, "CONGRATULATIONS! YOU HAVE COMPLETED THE VIRTUAL BEAN GAUNTLET! YOUR PRIZE: UNLIMITED VIRTUAL BEAN DIP!"
+
+Mav looked at the dispenser, then at the endless landscape of edible digital terrain. "So... we get virtual bean dip?"
+
+"Precisely, Maverick! A structurally infinite supply! Never again shall you suffer the indignity of a chip without its accompanying dip!" Bucktooth announced, a look of profound satisfaction on his spectral face.
+
+Mav took off his headset, blinking in the real world. He looked at the Professor, who was now a normal plush beaver doll. "You know, Professor, that was... surprisingly fun. And kind of exhausting."
+
+"The most rewarding structural endeavors always are, Maverick! Now, I believe a real-world snack is in order. I perceive a distinct craving for... well, you know. And perhaps a structural analysis of your kitchen pantry!"
+
+Mav just smiled. For once, he agreed. And for some reason, he now felt an inexplicable urge to build a fortress out of canned goods.`
+    },,,,,,
 };
 
 // DOM Elements
